@@ -4,7 +4,6 @@ import (
 	"encoding/json"
 	"os"
 	"path/filepath"
-
 )
 
 const configFileName = ".gatorconfig.json"
